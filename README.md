@@ -1,5 +1,5 @@
 # LSE-IP-Fleeing-DV-London
-In this independent project (my dissertation for LSE's MSC CIty Design and Social Science, 2022), I sought to explore the influence of space and societal factors on temporary accommodations (TAs), housing policy, and housing austerity, particularly as they impact options for women and children fleeing domestic violence.
+In this independent project (dissertation for LSE's MSC City Design and Social Science, 2022), I sought to explore the influence of space and societal factors on temporary accommodations (TAs), housing policy, and housing austerity, particularly as they impact options for women and children fleeing domestic violence.
 
 ## Introduction/Context: ##
 

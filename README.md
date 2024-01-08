@@ -17,6 +17,12 @@ In this independent project (dissertation for LSE's MSC City Design and Social S
 - Extensive academic literature and qualitative research based on interviews with support workers aiding survivors of DV. (Please see the references part of the dissertation for more information)
 - Utilized open housing data from GLA 2022 and MHCLG 2019, including rent, domestic abuse offences, and indices of multiple deprivation. (Please see the references part of the dissertation for more information)
 - Employed spatial analysis via QGIS to understand correlations between deprivation, crime, DV, and housing costs.
+  
+  <img width="545" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/3cdab95e-5260-493e-a2c2-ad3b8f5f30e4">
+
+  <img width="518" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/cdb87254-b32f-4b3b-bed0-b8399d1b55a6">
+
+
 
 ## Key Learnings/Insights: ##
 
@@ -30,6 +36,9 @@ In this independent project (dissertation for LSE's MSC City Design and Social S
 - Employed diagrams to simplify complex concepts derived from extensive references and interviews.
   
 <img width="509" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/97174b73-63a2-4d1f-a925-81be10ce68f8">
+
+<img width="532" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/e117d826-99ab-4d45-8c60-ca4673f89c64">
+
 
 - Future focus on collaborations, deeper analysis, and publication for a broader impact.
 

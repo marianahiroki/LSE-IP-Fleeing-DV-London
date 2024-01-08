@@ -28,8 +28,9 @@ In this independent project (dissertation for LSE's MSC City Design and Social S
 
 - Main challenge: Addressing multifaceted issues related to DV, safety, housing, and citizenship.
 - Employed diagrams to simplify complex concepts derived from extensive references and interviews.
-![image](https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/c99a28ff-d5c1-4d22-bd9b-47866fbc4783)
-Diagram of TA types and respective principal managers (Author, 2022).
+  
+<img width="509" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/97174b73-63a2-4d1f-a925-81be10ce68f8">
+
 - Future focus on collaborations, deeper analysis, and publication for a broader impact.
 
 ## Future Steps/Recommendations: ##

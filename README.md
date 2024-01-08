@@ -18,9 +18,11 @@ In this independent project (dissertation for LSE's MSC City Design and Social S
 - Utilized open housing data from GLA 2022 and MHCLG 2019, including rent, domestic abuse offences, and indices of multiple deprivation. (Please see the references part of the dissertation for more information)
 - Employed spatial analysis via QGIS to understand correlations between deprivation, crime, DV, and housing costs.
   
-  <img width="545" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/3cdab95e-5260-493e-a2c2-ad3b8f5f30e4">
+  <img width="533" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/288cbf1a-4f86-48d1-b048-6c2df3209a4f">
 
-  <img width="518" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/cdb87254-b32f-4b3b-bed0-b8399d1b55a6">
+
+  <img width="521" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/ac0b6eda-38a8-41b9-8d62-2207ea1a7862">
+
 
 
 

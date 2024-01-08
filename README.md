@@ -9,13 +9,13 @@ In this independent project (dissertation for LSE's MSC City Design and Social S
 
 ## Objectives: ## 
 
-- Impact on fighting domestic violence: Explored how refuges and social services provision could alter approaches to combat domestic violence.
-- Collaboration for homelessness resolution: Examined strategies for public and private sector cooperation to effectively address and potentially end homelessness.
+- Impact on fighting domestic violence: To explore how refuges and social services provision could alter approaches to combat domestic violence.
+- Collaboration for homelessness resolution: To examine strategies for public and private sector cooperation to effectively address and potentially end homelessness.
 
 ## Data Collection and Analysis: ##
 
-- Extensive academic literature and qualitative research based on interviews with support workers aiding survivors of DV.
-- Utilized open housing data from GLA 2022 and MHCLG 2019, including rent, domestic abuse offences, and indices of multiple deprivation.
+- Extensive academic literature and qualitative research based on interviews with support workers aiding survivors of DV. (Please see the references part of the dissertation for more information)
+- Utilized open housing data from GLA 2022 and MHCLG 2019, including rent, domestic abuse offences, and indices of multiple deprivation. (Please see the references part of the dissertation for more information)
 - Employed spatial analysis via QGIS to understand correlations between deprivation, crime, DV, and housing costs.
 
 ## Key Learnings/Insights: ##
@@ -28,7 +28,9 @@ In this independent project (dissertation for LSE's MSC City Design and Social S
 
 - Main challenge: Addressing multifaceted issues related to DV, safety, housing, and citizenship.
 - Employed diagrams to simplify complex concepts derived from extensive references and interviews.
-- Future focus on collaborations, deeper analysis, and publication for broader impact
+![image](https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/c99a28ff-d5c1-4d22-bd9b-47866fbc4783)
+Diagram of TA types and respective principal managers (Author, 2022).
+- Future focus on collaborations, deeper analysis, and publication for a broader impact.
 
 ## Future Steps/Recommendations: ##
 

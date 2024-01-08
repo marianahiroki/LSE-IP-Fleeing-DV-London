@@ -39,8 +39,9 @@ In this independent project (dissertation for LSE's MSC City Design and Social S
   
 <img width="509" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/97174b73-63a2-4d1f-a925-81be10ce68f8">
 
-<img width="532" alt="image" src="https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/e117d826-99ab-4d45-8c60-ca4673f89c64">
+![image](https://github.com/marianahiroki/LSE-IP-Fleeing-DV-London/assets/110165879/055e5e50-4e00-48d6-adb3-1941b3195f26)
 
+Fig. 19: Diagram showing the possibilities of escaping DV. The purple lines indicate the possibility of returning to the cycle of violence and homelessness, and the green indicates the opposite. The arrows designate the direction of movements of survivors (Author, 2022)
 
 - Future focus on collaborations, deeper analysis, and publication for a broader impact.
 
